@@ -89,8 +89,6 @@ The HTTP response headers were inspected to identify the webserver used by the m
 |--------------|--------|
 | Webserver | `LiteSpeed` |
 
-![Server Header](images/server-header.png)
-
 ---
 
 ## 6. Webserver Version
