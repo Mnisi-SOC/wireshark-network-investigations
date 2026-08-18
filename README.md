@@ -12,6 +12,7 @@ wireshark-network-investigations/
 │   ├── images/
 │   ├── malware-traffic-analysis-01.md
 │   └── malware-traffic-analysis-02.md
+│
 ├── thm-challenges/
 │   ├── images/
 │   └── carnage.md
