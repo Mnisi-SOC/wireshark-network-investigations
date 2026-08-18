@@ -10,8 +10,8 @@ This repository documents practical exercises focused on identifying suspicious 
 wireshark-network-investigations/
 ├── malware-infections/
 │   ├── images/
-│   └── malware-traffic-analysis-01.md
-│
+│   ├── malware-traffic-analysis-01.md
+│   └── malware-traffic-analysis-02.md
 ├── thm-challenges/
 │   ├── images/
 │   └── carnage.md
@@ -26,6 +26,7 @@ wireshark-network-investigations/
 Investigations based on **malware traffic analysis**. These write-ups focus on examining PCAP files, identifying infected hosts, tracing suspicious network activity, and extracting indicators of compromise (IOCs).
 
 - `malware-infections/malware-traffic-analysis-01.md`
+- `malware-infections/malware-traffic-analysis-02.md`
 - Supporting screenshots are stored in `malware-infections/images/`
 
 ### TryHackMe Challenges
